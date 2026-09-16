@@ -79,9 +79,6 @@ The application analyzes various factors including:
 
 Contributions are welcome! Please feel free to submit issues and pull requests to help improve this project.
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
